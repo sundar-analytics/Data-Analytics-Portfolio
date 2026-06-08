@@ -33,7 +33,11 @@ The organization operates across multiple regions and product categories. Manage
 - Tracked category-wise target achievement
 - Analyzed return patterns
 - Monitored delivery delays
-- Supported data-driven decision-making
+- Supported data-driven decision-making     
+
+## Power BI File
+PBIX Download Link:
+https://drive.google.com/file/d/1-OSh0tKiUH0hGpjfroLfn57SItZiLqEM/view?usp=sharing
 
 ## Author
 Sundara Pandian J
@@ -42,4 +46,4 @@ LinkedIn:
 www.linkedin.com/in/sundarajofficial
 
 GitHub:
-github.com/sundar-analytics
+www.github.com/sundar-analytics
